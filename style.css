@@ -1,0 +1,62 @@
+body {
+	background-image:url(http://i.imgur.com/GKY6YFC.jpg);
+}
+.logo {
+    padding-top: 10px;
+}
+
+.navbar-justified {
+	background-color: #CCFFCC;
+	width: 75%;
+	margin: auto;
+}
+
+.navbar-justified .nav > li > a{
+	color: #003399;
+	font-family: segoe print;
+	font-size: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.dropdown {
+	font-family: segoe print;
+
+}
+.dropdown-menu {
+	background-color: #CCFFCC;
+	color: #003399;
+}
+.dropdown-menu > li > a:hover {
+	color:#339966;
+}
+.navbar-justified .nav > li > a:hover {
+	color:#339966;
+}
+
+.navbar-justified .nav .active > a {
+	background: none;
+	color: #003399;
+
+}
+.navbar-justified .nav .active > a:hover{
+	background: none;
+	color: #339966;
+}
+.lorem {
+	font-family: sans-serif;
+	text-shadow: 3px 3px 15px rgba(150, 150, 150, 1);
+}
+.divider-vertical {
+height: 50px;
+margin: 0 9px;
+border-left: 1px solid #66FFFF;
+border-right: 1px solid #66FFFF;
+}
+.box {
+-webkit-box-shadow: 0px 0px 22px 6px rgba(42, 50, 50, 0.26);
+-moz-box-shadow:    0px 0px 22px 6px rgba(42, 50, 50, 0.26);
+box-shadow:         0px 0px 22px 6px rgba(42, 50, 50, 0.26);
+}
+h1 {
+	text-align: center;
+}
